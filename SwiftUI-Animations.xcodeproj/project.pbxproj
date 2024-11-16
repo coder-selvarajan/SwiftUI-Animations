@@ -32,8 +32,8 @@
 		FF1D041D2CE761BC00A0CE84 = {
 			isa = PBXGroup;
 			children = (
-				FF1D04282CE761BC00A0CE84 /* SwiftUI-Animations */,
 				FF1D04272CE761BC00A0CE84 /* Products */,
+				FF1D04282CE761BC00A0CE84 /* SwiftUI-Animations */,
 			);
 			sourceTree = "<group>";
 		};
